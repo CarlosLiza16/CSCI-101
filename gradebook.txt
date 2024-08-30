@@ -1,0 +1,7 @@
+80362 Tucker_Guidi 0.828351 B
+63985 Stylianos_Griffin 0.947890 A
+42846 Marika_Mohan 0.325309 F
+40394 Alwilda_Caruso 0.964080 A
+62998 Carlos_Douglas 0.989195 A
+62916 Miguel_Linares 0.989585 A
+62989 Patrick_Yucra 0.859195 B
